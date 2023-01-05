@@ -1,3 +1,13 @@
-h1{
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background: skyblue;
+}
+
+h1, h2{
     color: grey;
+    font-weight: bold;
+    font-family: system-ui;
 }
